@@ -1,8 +1,8 @@
 # water-heater
 measure water temperature of a solar water heater.
 
-hardware: ESP32. DS18B20. (uses ESP32 deep sleep mode). 
-software: Micropython. Blynk.
+- hardware: ESP32. DS18B20. (uses ESP32 deep sleep mode). 
+- software: Micropython. Blynk.
 
 
 see https://medium.com/@pboudalier/how-much-solar-hot-water-do-i-have-4fdb4684281a
